@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "itsm-1",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "db3ef363-50a3-43ff-9f4c-a54bced78be3",
+			"database_name": "itsm-1"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
